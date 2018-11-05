@@ -24,5 +24,5 @@ class PageController extends Controller
     {
       return view('pages.phpinfo');
     }
-    // Test to see git pression
+    // Test to see git pression and show the way
 }

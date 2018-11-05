@@ -22,7 +22,7 @@
         </div>
 
         <div class="col-md-4">
-          <h1 class="text-center mt-5 text-uppercase">Configs</h1>
+          <h1 class="text-center mt-5 text-uppercase">Configs and other</h1>
           <ul class="list-group">
             <li class="list-group-item"><a class="" href="http://localhost/phpmyadmin/">Phpmyadmin</a></li>
             <li class="list-group-item"><a class="" href="http://localhost/dashboard/"> Go to Apache Friends</a></li>

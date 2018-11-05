@@ -24,9 +24,9 @@
         <div class="col-md-4">
           <h1 class="text-center mt-5 text-uppercase">Configs</h1>
           <ul class="list-group">
-            <li class="list-group-item"><a class="" href="#">Phpmyadmin</a></li>
-            <li class="list-group-item"><a class="" href="#"> Go to Apache Friends</a></li>
-            <li class="list-group-item" ><a class="" href="#"> Go to Help Desk</a></li>
+            <li class="list-group-item"><a class="" href="http://localhost/phpmyadmin/">Phpmyadmin</a></li>
+            <li class="list-group-item"><a class="" href="http://localhost/dashboard/"> Go to Apache Friends</a></li>
+            <li class="list-group-item" ><a class="" href="http://localhost/dashboard/howto.html"> Go to Help Desk</a></li>
           </ul>
           <hr>
             <a href="#" class="link"> Edit the http-vhost file</a>
